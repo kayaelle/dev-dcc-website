@@ -1,6 +1,6 @@
 ---
 layout: default
-title: team
+title: Our Team
 team: 
   - name: Kerri Lemoie, Ph.D.
     title: Director
