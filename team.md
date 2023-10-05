@@ -45,7 +45,7 @@ team:
     photo: /images/members/jchartrand.jpg
 ---
 
-The DCC is led by a Leadership Council elected by the DCC membership and is supported by a team of professionals.
+The DCC is supported by a team of professionals.
 
 
 
