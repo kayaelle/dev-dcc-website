@@ -1,6 +1,5 @@
-layout: default
-title: Team
-team:
+
+<h2 class="pt-1" id="team">Our Team</h2>
 
 The DCC is led by a Leadership Council elected by the DCC membership and is supported by a team of professionals.
 
@@ -47,4 +46,4 @@ The DCC is led by a Leadership Council elected by the DCC membership and is supp
     photo: /images/members/jchartrand.jpg
 ---
 
-{% include team-members.html %}
+{% includes team-members.html %}
