@@ -2,7 +2,7 @@
 layout: default
 title: Members  
 ---
-Digital Credential Consortium members are non-profit or state-funded higher education or postgraduate education institutions from around the world.
+Digital Credential Consortium members are non-profit or state-funded higher education or postgraduate education institutions from around the world. We are working together to achieve the DCC mission to create a trusted, distributed, and shared infrastructure that will become the standard for issuing, storing, displaying, and verifying academic credentials, digitally.
 ## Members
 
 * Delft University of Technology (The Netherlands) <sup>*†</sup>
@@ -25,3 +25,18 @@ Digital Credential Consortium members are non-profit or state-funded higher educ
 <br>
 <sup>†</sup> Founding Member
 </p>
+
+<div id="contact" class="call-to-action pt-4 pb-4">
+<div class="container-md">
+<div class="content">
+    <p class="call-to-action-mini mb-3 mt-3">
+      If you represent a higher education or post-graduate institution we invite you to <a href="{{ site.baseurl }}/membership">learn more about membership</a>.
+    </p>
+</div>
+</div>
+</div>
+
+
+</div>
+</div>
+</div>
