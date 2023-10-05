@@ -1,4 +1,7 @@
-The DCC is led by a Leadership Council elected by the DCC membership and is supported by a team of professionals.
+---
+layout: default
+title: team
+team: 
 
   - name: Kerri Lemoie, Ph.D.
     title: Director
@@ -43,5 +46,6 @@ The DCC is led by a Leadership Council elected by the DCC membership and is supp
     photo: /images/members/jchartrand.jpg
 ---
 
+{% includes team-members.html %} 
 
 
