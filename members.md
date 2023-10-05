@@ -35,8 +35,3 @@ Digital Credential Consortium members are non-profit or state-funded higher educ
 </div>
 </div>
 </div>
-
-
-</div>
-</div>
-</div>
