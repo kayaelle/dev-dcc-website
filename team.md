@@ -2,7 +2,6 @@
 layout: default
 title: team
 team: 
-
   - name: Kerri Lemoie, Ph.D.
     title: Director
     bio: <b>Kerri Lemoie, Ph.D.</b> directs the development, planning, and strategy of the DCC. Kerri has been working on the web for 25+ years as a web developer and in multiple leadership capacities and advisory roles. As one of the founding technical contributors to Open Badges, she is a recognized leader in the digital credentials ecosystem. Kerri completed her Ph.D. at Fielding Graduate University in Media Psychology. Her dissertation research focused on technology adoption of self-sovereign digital identity.
@@ -46,6 +45,6 @@ team:
     photo: /images/members/jchartrand.jpg
 ---
 
-{% includes team-members.html %} 
+
 
 
