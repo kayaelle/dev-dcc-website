@@ -45,7 +45,7 @@ team:
     photo: /images/members/jchartrand.jpg
 ---
 
-The DCC is supported by a team of professionals.
+The DCC is lead by a team of professionals who are passionate about building technology and tools that support insitutions and learners.
 
 
 
