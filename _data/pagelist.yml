@@ -6,7 +6,7 @@ pages:
   - page: Our Work
     url: /our-work
   - page: Who We Are
-    url: /who-we-are
+    url: /members
     subpages:
       - page: Members
         url: /members
