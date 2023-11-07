@@ -12,8 +12,6 @@ pages:
         url: /members
       - page: Team
         url: /team
-      - page: Governance
-        url: /governance 
   - page: Resources
     url: /resources
   - page: Get Involved
