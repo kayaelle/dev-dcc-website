@@ -7,6 +7,9 @@ title: Governance
 The DCC is governed by a Leadership Council, a group of membership-elected individuals who provide strategic direction and institutional input for the consortium. <br> 
 <br> The Leadership Council members are:
 
+<!-- Grid format that places text block and images side by side at wide screen size -->
+<div class="row">
+<div class="col-lg-6"  markdown="1">
 
 <b> Alexander Braun </b><br>
 Senior Vice President Digitalization and IT Systems and Chief Information Officer, Technical University of Munich 
@@ -26,6 +29,9 @@ Associate Dean and Chief Innovation Technology Officer, Division of Continuing E
 <b> Alberto Leporati </b> <br>
 Associate Professor, Computer Science, Università degli Studi di Milano-Bicocca
 
+</div>
+<div class="col-lg-6" markdown="1">
+
 <b> Christoph Meinel </b><br>
 President and CEO, Hasso Plattner Institute for IT-Systems Engineering 
 
@@ -43,5 +49,6 @@ Dean, Faculty of Engineering, McMaster University
 
 <b> Willem van Valkenburg </b><br>
 Executive Director TU Delft Extension School for Continuing Education, Technische Universiteit Delft
-
+</div>
+</div>
 
