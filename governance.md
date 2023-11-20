@@ -15,7 +15,7 @@ The DCC is governed by a Leadership Council, a group of membership-elected indiv
 Senior Vice President Digitalization and IT Systems and Chief Information Officer <br> Technical University of Munich 
 
 <b> Kristine Collins </b><br>
-Dean of Continuing Education, University of California<br> Irvine
+Dean of Continuing Education <br> University of California, Irvine
 
 <b> José Escamilla </b><br>
 Associate Director, Institute for the Future of Education<br> Tecnológico de Monterrey
