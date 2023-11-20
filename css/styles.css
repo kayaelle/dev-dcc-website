@@ -417,6 +417,15 @@ ul.bullets-special {
   font-size: 1.1rem;
 }
 
+/* LC Members */
+
+.lccolumn {
+  float: left;
+  width: 50%;
+  padding: 10px;
+  height: 300px; 
+}
+
 /* Table style */
 .table {
   margin-top: 2rem;
