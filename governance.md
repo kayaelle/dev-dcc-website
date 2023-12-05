@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Governance
+title: Leadership Council 
 ---
-## Governance
+## Leadership Council
 
 The DCC is governed by a Leadership Council, a group of membership-elected individuals who provide strategic direction and institutional input for the consortium. <br> 
 <br> The Leadership Council members are:
