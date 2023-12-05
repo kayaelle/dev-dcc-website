@@ -4,7 +4,7 @@ title: Leadership Council
 ---
 ## Leadership Council
 
-The DCC is governed by a Leadership Council, a group of membership-elected individuals who provide strategic direction and institutional input for the consortium. <br> 
+The DCC is governed by a Leadership Council, elected by its membership. The Leadership Council oversees the administration and budget of the DCC and, together with the Director of the DCC, provides its strategic direction. Members of the Leadership Council also provide input from their own institutions. <br> 
 <br> The Leadership Council members are:
 
 <!-- Grid format that places text block and images side by side at wide screen size -->
@@ -38,7 +38,7 @@ President and CEO<br> Hasso Plattner Institute for IT-Systems Engineering
 <b> Mihnea Moldoveanu </b><br>
 Professor and Vice Dean of Learning and Innovation Rotman School of Management<br> University of Toronto
 
-<b> Krishna Rajagopal (chair) </b><br>
+<b> Krishna Rajagopal (Chair) </b><br>
 William A. M. Burden Professor of Physics<br> Massachusetts Institute of Technology
 
 <b> Richard Russo </b><br>
@@ -48,7 +48,7 @@ Dean, Extended Education<br> University of California, Berkeley
 Dean, Faculty of Engineering<br> McMaster University
 
 <b> Willem van Valkenburg </b><br>
-Executive Director TU Delft Extension School for Continuing Education<br> Technische Universiteit Delft
+Executive Director TU Delft Extension School for Continuing Education<br> Delft University of Technology
 </div>
 </div>
 
