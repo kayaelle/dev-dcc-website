@@ -23,6 +23,9 @@ Associate Director, Institute for the Future of Education<br> Tecnológico de Mo
 <b> Stephen Harmon </b><br>
 Director of Education Innovation, Center for 21st Century Universities<br> Georgia Institute of Technology
 
+<b> Darin Hobbs </b><br>
+Vice President of Academic Records, Credentials & Career<br> Western Governors University
+
 <b> Henry Leitner </b><br>
 Associate Dean and Chief Innovation Technology Officer<br> Division of Continuing Education, Harvard University
 
