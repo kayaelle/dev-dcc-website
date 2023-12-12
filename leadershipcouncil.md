@@ -9,7 +9,7 @@ The DCC is governed by a Leadership Council, elected by its membership. The Lead
 
 <!-- Grid format that places text block and images side by side at wide screen size -->
 <div class="row">
-<div class="col-lg-6"  markdown="1">
+<div class="col-lg-8"  markdown="1">
 
 <b> Alexander Braun </b><br>
 Senior Vice President Digitalization and IT Systems and Chief Information Officer <br> Technical University of Munich 
