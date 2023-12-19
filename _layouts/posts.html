@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>{{ page.title }}</title>
+    <title>DCC Blog - {{ page.title }}</title>
 
     <!-- Google fonts -->
     <link rel="preconnect" href="https://fonts.gstatic.com">
@@ -32,18 +32,11 @@
   <body>
     <!-- Navbar -->
     {% include navigation.html %}
-
-    <!-- If Homepage, fill in HTML content: -->
-    {% if page.title == "Digital Credentials Consortium" %}
-      {{ content }}
-
-    <!-- If any of the other content pages:  -->
-    {% else %}
       <!-- Page Banner -->
       <div class="page-head-block">
         <header>
           <h1>
-            {{page.title}}
+            DCC Blog 
           </h1>
         </header>
       </div>
@@ -51,10 +44,20 @@
       <!-- Page content -->
       <div class="container-md {{page.title | downcase | split: ' ' | join: '-'}}-page">
         <div class="content page-content">
+          <header>
+          <h2>
+            {{ page.title }}
+          </h2>
+        </header>
+        <header>
+          <h6 class="post-author">
+            <a href="/team/#{{ page.author-anchor }}">{{ page.author }}</a><br>
+            {{ page.date | date: "%b %d, %Y"}}
+          </h6>
+        </header>
           {{ content }}
         </div>
       </div>
-    {% endif %}
     
     <!-- Page footer -->
     {% include footer.html %}
