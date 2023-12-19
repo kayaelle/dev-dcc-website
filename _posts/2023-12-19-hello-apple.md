@@ -1,6 +1,7 @@
 ---
-layout: default
-author: jill
+layout: posts
+author: Kerri Lemoie
+author-anchor: kerri-lemoie
 title: The Apple
 ---
 An apple is a sweet, edible fruit produced by an apple tree.
