@@ -3,13 +3,12 @@ layout: default
 title: Blog
 ---
 
-<h2>Latest Posts</h2>
+Learn more about the DCC and our work.
 
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
-      {{ post.excerpt }}
-    </li>
-  {% endfor %}
-</ul>
+
+{% for post in site.posts %}
+  <p>
+    <h6><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a> - {{ post.author }} - {{ post.date | date: "%b %d, %Y"}}</h6>
+  </p>
+{% endfor %}
+
