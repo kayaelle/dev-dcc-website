@@ -16,6 +16,8 @@ pages:
         url: /leadershipcouncil
   - page: Resources
     url: /resources
+  - page: Blog
+    url: /blog
   - page: Get Involved
     url: /get-involved
     subpages:
