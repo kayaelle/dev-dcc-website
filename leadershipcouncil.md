@@ -27,10 +27,10 @@ Executive Director, Center for 21st Century Universities<br> Georgia Institute o
 Vice President, Learning & Employment Records<br> Western Governors University
 
 <b> Henry Leitner </b><br>
-Associate Dean for Information Technology <br>Harvard University
+Chief Innovation Officer, Division of Continuing Education <br>Harvard University
 
 <b> Alberto Leporati </b> <br>
-Associate Professor, Department of Informatics, Systems and Communication<br> Università degli Studi di Milano-Bicocca
+Associate Professor, Department of Informatics, Systems and Communication <br> Università degli Studi di Milano-Bicocca
 
 </div>
 <div class="col-lg-6" markdown="1">
